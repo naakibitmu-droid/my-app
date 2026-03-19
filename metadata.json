@@ -1,0 +1,5 @@
+{
+  "name": "画像分割プロ",
+  "description": "カスタムラインやグリッド設定を使用して、画像を複数のパーツに分割できる強力なツールです。",
+  "requestFramePermissions": []
+}
